@@ -1,0 +1,3 @@
+*.csv
+create_mnist_mock_data.py
+hello.ipynb
